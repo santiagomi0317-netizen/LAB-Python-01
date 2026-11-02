@@ -6,7 +6,9 @@ Santiago Murillo 4 horas
 Jorge Chaves 4 horas
 
 * ¿Cuál es el estado actual del laboratorio? ¿Por qué?
+  
   Completado. Se trabajó el laboratorio de manera adecuada, siguiendo las indicaciones dadas de inicio a fin, resultando en la correcta complecion de los ejercicios.
+  
 * ¿Cuál consideran fue el mayor logro? ¿Por qué?
 
 Lograr poner en practica la teoria en ejercicios practicos, ya que no solo nos quedamos con la teoria y pudimos reforzar neustros conocimientos
